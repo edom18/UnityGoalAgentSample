@@ -1,4 +1,4 @@
-UnityGoalAgentSample
+Goal Base Agent Sample wit Unity.
 ============
 
 ## Overview
